@@ -1,4 +1,4 @@
-use rocket::request::Form;
+use rocket::form::Form;
 use rocket::response::{content::Html, Redirect};
 use rocket_contrib::templates::Template;
 
